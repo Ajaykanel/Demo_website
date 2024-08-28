@@ -1,0 +1,144 @@
+body{display:flex;
+justify-content:center;
+align-items:center; 
+background: black;}
+.main_h{background:black; height:auto; }
+
+.main_box{ display:flex; }
+/*box1*/
+.box1{margin-top:15px;
+margin-left:50px;}
+.box1 a{color:white; 
+font-size:20px; 
+font-weight:bold;
+text-decoration:none;}
+
+.box2 ul{display:flex; margin-left:10px;}
+.box2 li{margin-left:30px; 
+font-size:20px; 
+font-weight:bold;
+list-style:none;}
+.box2 a{color:white;
+text-decoration:none;}
+.box2 li a:hover{border-bottom:2px solid #fcb40a; color:#fcb40a;}
+
+.contain{margin-top:px; 
+background:none; 
+height:450px;
+display:flex;
+margin-bottom:10px;}
+.img1 img{margin-top:50px; 
+height:400px; 
+margin-left:80px;}
+
+.text{padding:50px; color:white;}
+.ye{color:#fcb40a;}
+.text p{font-size:50px; font-weight:bold; }
+.text button{border-radius:50px;  width:150px; 
+height:50px; font-size:20px; border:none; 
+margin-top:-50px; 
+margin-left:10px;}
+.btn_h{background:#fcb40a;}
+
+.text2{margin-left:80px;}
+.text2 span{color:#faf7f0;}
+.sad{ color:white;
+  text-shadow: 1px 15px 1px #faf7f0; font-weight:bold; font-size:40px;}
+.tb1{margin-top:10px; }
+.tb1 tr{height:30px;}
+.color{color:#faf7f0;}
+.col{color:white; font-weight:bold; font-size:20px;}
+.tb1 button{background:#fcb40a; 
+height:40px;
+border:none; 
+border-radius:50px; 
+font-weight:bold;}
+
+.resum{color:#e6dfd1; text-align:center; background:;}
+.resum h1{text-shadow: 1px 20px 2px #faf7f0; color:white;}
+
+.resum_box{height:270px; background:none; padding-top:5px; display:flex; padding-left:50px;}
+.resum_box1{ background:#292927; height:250px; width:400px; padding-top:10px; 
+padding-left:10px; margin-left:20px;} 
+.resum_box1 h1,h2,h6{line-height:10px;}
+.resum_box1 h1{color:#fcb40a;}
+.resum_box1 h2{color:white;}
+.resum_box1 h6,p{color:#e6dfd1;}
+.btn_cv2{background:none; text-align:center; margin-top:50px;}
+.btn_cv2 button{height:60px; width:200px; font-size:20px; font-weight:bold; 
+border-radius:50px; background:#fcb40a; border:none; margin-bottom:100px;}
+
+.icon{background:none; height:250px; padding-top:10px; display:flex; 
+padding-left:20px;}
+.icon1{background:#292927;; height:240px; 
+ text-align:center; width:300px; margin-left:10px;}
+.icon1:hover{background:#fcb40a; } 
+.icon1 i:hover{color:white;}
+.icon1 i{font-size:50px; 
+  color:#fcb40a; background:none; padding-top:50px;
+height:200px; width:300px; 
+position:relative;  
+}
+.bor{background:red; height:50px; width:50px;}
+.icon1 p{margin-top:-250px; 
+color:white; 
+ padding-top:110px; 
+ height:240px;}
+ 
+
+.res_top{margin-top:100px;}
+.photo{background:none; font-size:20px;  display:flex;
+font-weight:bold; height:100px;  padding-left:50px; padding-top:20px;}
+.mar{margin-left:250px;}
+.mar97{margin-left:50%;}
+.mar95{margin-left:80%;}
+.div{
+    	width:400px;
+    	height:15px;
+    	background: linear-gradient(to right, #fcb40a 95%, black 5px );
+    }
+.mar1{background:linear-gradient(to right,yellow 80%,black 1px);}	
+	
+	
+.text_photo{background:none;color:white; 
+height:60px; 
+width:410px; line-height:30px; margin-left:20px;}	
+
+.contact_main{background:none; 
+height:300px; 
+padding-top:10px;
+margin-top:100px;
+display:flex; 
+text-align:center;}
+.contact_box1{background:none; 
+height:200px; 
+width:200px; 
+margin-left:30px; 
+padding-top:20px;}
+.con_imge i{background:#292927; color:#fcb40a; 
+height:80px; 
+border-radius:50px; 
+font-size:50px; 
+width:100px; 
+padding-top:20px;}
+
+.con_imge h3{color:white;}
+
+
+
+.message{background:none; height:500px; margin-bottom:100px;display:flex; padding-left:50px;}
+.mess_imge img{height:400px; width:350px; } 
+.input_box{background:white; width:350px; margin-left:100px; padding-left:50px;}
+.input_box input{height:50px;
+padding-left:20px; border-radius:5px; width:300px;
+ margin-top:20px;}
+.input_box textarea{margin-bottom:20px; border-radius:5px; margin-top:20px; padding-left:20px;}
+.input_box button{height:50px; width:200px; background:#fcb40a; border:none; border-radius:50px; font-size:20px;}
+
+.arrow{padding-left:30px;}
+.arrow td{ width:50px; font-size:20px; text-align:center;color:#e6dfd1; } 
+.arrows{padding-left:20px; font-size:20px;}
+.arrows td{color:#e6dfd1;}
+.arrows tr{height:35px;}
+.con_img h3{color:white; font-size:20px; font-weight:bold;}
+ 
